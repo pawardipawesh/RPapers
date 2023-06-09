@@ -1,2 +1,2 @@
 # RPapers
-Set of important research papers that I cam across
+Set of important research papers that I came across
